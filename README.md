@@ -1,4 +1,4 @@
-# Human L2/3 Cortical Circuit Model for Therapeutic Dose Prediction of New Pharmacology in Depression --- Guet-McCreight-et-al.-2023
+# Human L2/3 Cortical Circuit Model for Therapeutic Dose Prediction of New Pharmacology in Depression --- Guet-McCreight-et-al.-2024
 ===================================================================================================================================================================
 Author: Alexandre Guet-McCreight
 
