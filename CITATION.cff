@@ -1,0 +1,10 @@
+cff-version: 1.1.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Guet-McCreight
+  given-names: Alexandre
+orcid: https://orcid.org/0000-0002-2377-0337
+title: Therapeutic dose prediction of α5-GABA receptor modulation from simulated EEG of depression severity
+version: V1.2
+date-released: 2024-12-05
+license: GPL-3.0-or-later
